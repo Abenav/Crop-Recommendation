@@ -8,3 +8,11 @@ In this project, using various machine learning models we recommend a crop based
 4. SVM
 5. KNN
 
+# Libraries
+
+1. Sklearn
+2. Keras
+3. NumPy
+4. Matplotlib
+5. Pandas
+
